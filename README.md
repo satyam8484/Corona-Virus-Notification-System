@@ -25,10 +25,10 @@ it'll give following information:
 
 - Python Modules required : 
 	- bs4
-	- pandas, 
-	- requests,
-	plyer,
-	lxml,
+	- pandas
+	- requests
+	- plyer
+	- lxml
 
 # Installing :
 
