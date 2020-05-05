@@ -24,9 +24,9 @@ it'll give following information:
 - Internet Connection
 
 - Python Modules required : 
-	bs4,
-	pandas, 
-	requests,
+	- bs4
+	- pandas, 
+	- requests,
 	plyer,
 	lxml,
 
