@@ -24,11 +24,11 @@ it'll give following information:
 - Internet Connection
 
 - Python Modules required : 
-	*bs4
-	*pandas 
-	*requests
-	*plyer
-	*lxml
+*bs4
+*pandas 
+	requests
+	plyer
+	lxml
 
 # Installing :
 
