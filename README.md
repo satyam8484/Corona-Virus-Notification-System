@@ -20,15 +20,15 @@ it'll give following information:
 ![alt text](https://github.com/satyam8484/Corona-Virus-Notification-System/blob/master/Untitled4.png)
 
 # Prerequisites :
-* python3
-* Internet Connection
+- python3
+- Internet Connection
 
-* Python Modules required : 
-	-bs4
-	-pandas 
-	-requests
-	-plyer
-	-lxml
+- Python Modules required : 
+	*bs4
+	*pandas 
+	*requests
+	*plyer
+	*lxml
 
 # Installing :
 
