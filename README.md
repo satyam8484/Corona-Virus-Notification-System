@@ -34,12 +34,12 @@ it'll give following information:
 
 open terminal and Run following command one by one
 
-python -m pip install pandas
-python -m pip install bs4
-python -m pip install plyer
+python -m pip install pandas,
+python -m pip install bs4,
+python -m pip install plyer,
 python -m pip install lxml
 
-After installing all packages then run programm by using following command
+After installing all packages then run programm by using following command \n
 
 python Covid_19_Notification.py
 
