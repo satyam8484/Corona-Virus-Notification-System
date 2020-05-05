@@ -13,3 +13,5 @@ it'll give following information:
 	* Cured/Discharged/Migrated
 
 	* Death
+
+![alt text]()
